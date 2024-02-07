@@ -1,0 +1,10 @@
+C:\Users\Sebi\source\repos\Battleship Fight\bin\Debug\Battleship Fight.exe.config
+C:\Users\Sebi\source\repos\Battleship Fight\bin\Debug\Battleship Fight.exe
+C:\Users\Sebi\source\repos\Battleship Fight\bin\Debug\Battleship Fight.pdb
+C:\Users\Sebi\source\repos\Battleship Fight\obj\Debug\Battleship Fight.csproj.AssemblyReference.cache
+C:\Users\Sebi\source\repos\Battleship Fight\obj\Debug\Battleship_Fight.Form1.resources
+C:\Users\Sebi\source\repos\Battleship Fight\obj\Debug\Battleship_Fight.Properties.Resources.resources
+C:\Users\Sebi\source\repos\Battleship Fight\obj\Debug\Battleship Fight.csproj.GenerateResource.cache
+C:\Users\Sebi\source\repos\Battleship Fight\obj\Debug\Battleship Fight.csproj.CoreCompileInputs.cache
+C:\Users\Sebi\source\repos\Battleship Fight\obj\Debug\Battleship Fight.exe
+C:\Users\Sebi\source\repos\Battleship Fight\obj\Debug\Battleship Fight.pdb
